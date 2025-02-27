@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Dainely™ Belt",
+    "price": "$49.99",
+    "image": "1.png"
+  },
+  {
+    "id": 2,
+    "name": "Dainely™ Neck Stretcher",
+    "price": "$49.99",
+    "image": "2.png"
+  },
+  {
+    "id": 3,
+    "name": "Dainely™ Knee Brace",
+    "price": "$49.99",
+    "image": "3.png"
+  },
+  {
+    "id": 4,
+    "name": "Neck Cloud™️",
+    "price": "$49.99",
+    "image": "4.png"
+  }
+]
